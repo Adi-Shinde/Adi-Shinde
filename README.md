@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adi-Shinde
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Java, C++, Python
+- 👀 Proficient in Java, C++, python. 
+- 🌱 I’m currently learning JavaScript,html, css and integrating restful API's using springboot and node.js
 - 📫 Email - shindeaditya004@hotmail.com
 
 <!---
